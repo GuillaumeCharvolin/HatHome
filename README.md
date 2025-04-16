@@ -4,7 +4,7 @@
 
 ## 🕹️ Game Concept
 
-You control a ship that must be defended against waves of alien attacks.
+You need to defend a ship against waves of alien attacks.
 
 ## 🛠️ Tech Stack
 
