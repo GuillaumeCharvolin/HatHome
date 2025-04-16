@@ -1,0 +1,16 @@
+Il faut exécuter main.py pour lancer le programme.
+
+Les barres dans le HUD en haut de l'écran : En premier la vie, en second l'endurance pour sprinter, en troisième la progression du niveau (experience)
+
+ZQSD --> se déplacer
+C --> mode construction (appuyer sur F pour revenir au mode normal, clic gauche pour construire,  clic droit pour détruire)
+F --> changer d'arme (Gold45, Wavax, Aspirator / clic gauche pour utiliser)
+U --> augmenter le niveau de l'arme
+shift --> sprint (le sprint est très rapide, on va le ralentir, pour le moment c'est plus simple pour se balader)
+TAB --> ouvrir/fermer l'inventaire
+	(Dans l'inventaire, en premier l'argent, en seconde les pierres de niveau (gagner à chaque niveau passé), en troisième le nombre de mur)
+
+#Triche
+1 - Tuer tous les monstres
+2 - Se teleporter à la souris
+3 - Faire apparaître des monstres

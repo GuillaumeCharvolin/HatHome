@@ -1,0 +1,103 @@
+{
+  "volumes": {
+    "general": 41,
+    "music": 100,
+    "sound": 100
+  },
+  "settings": {
+    "resolution": [
+      1920,
+      1080
+    ]
+  },
+  "ship": {
+    "life": -1299,
+    "max_life": 1000
+  },
+  "wave": {
+    "selectwave": 1
+  },
+  "player": {
+    "life": 120,
+    "selectgun": "wavax",
+    "experience_max": 10,
+    "experience": 4
+  },
+  "inventory": {
+    "coins": 2279,
+    "gemstone": 0,
+    "walls": 100,
+    "priminvslots": [
+      "Wavax",
+      "Gold45",
+      "Wavax",
+      "Gold45",
+      "Wavax"
+    ],
+    "secondinvslots": [
+      "Aspirator",
+      "Aspirator",
+      "Aspirator"
+    ],
+    "hatinvslots": [
+      "Teleport_Hat",
+      "Teleport_Hat",
+      "Teleport_Hat",
+      "Teleport_Hat"
+    ],
+    "sellingitemprimary": [
+      "Gold45",
+      "Wavax",
+      "Gold45",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "priceitemprimary": [
+      30,
+      20,
+      30,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "sellingitemsecondary": [
+      "Aspirator",
+      "Aspirator",
+      null,
+      null
+    ],
+    "priceitemsecondary": [
+      100,
+      100,
+      null,
+      null
+    ],
+    "sellingitemhat": [
+      "Teleport_Hat",
+      null,
+      null,
+      null,
+      null
+    ],
+    "priceitemhat": [
+      100,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
